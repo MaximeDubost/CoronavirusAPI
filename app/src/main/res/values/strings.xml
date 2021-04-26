@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coronavirus API</string>
+    <string name="active_case">Cas actifs : </string>
+    <string name="total_case">Cas total : </string>
+    <string name="deaths">Décès : </string>
+    <string name="recovered">Gérisons : </string>
+</resources>
